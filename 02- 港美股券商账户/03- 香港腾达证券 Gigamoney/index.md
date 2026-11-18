@@ -36,7 +36,7 @@ GigaMoney（腾达证券）是一家香港持牌券商，支持港股、美股�
 
 很多用户第一次使用时 Giga 腾达证券，会感觉界面风格和长桥证券很相似。没错，它的底层系统和长桥是完全一样的。
 
-![](images/01.png)
+![](01-项目库/06-%20go-global/02-%20港美股券商账户/03-%20香港腾达证券%20Gigamoney/images/01.png)
 
 ## 最新腾达证券开户奖励（有效期至 2026-08-31）
 
@@ -69,7 +69,7 @@ HKD 800 现金券
 
 首次转仓达 1万港币可获 500 现金券，3w 可获 800 现金券。
 
-![腾达证券开户邀请码](images/02.png)
+![腾达证券开户邀请码](01-项目库/06-%20go-global/02-%20港美股券商账户/03-%20香港腾达证券%20Gigamoney/images/02.png)
 
 [查看腾达证券最新开户奖励](https://gigamoney.activity.wbrks.com/pages/winner/10849/index.html?app_id=winner&org_id=1&account_channel=hk_winner&lang=zh-HK&channel=kol&invite-code=XDXDQQYZ)
 
@@ -87,7 +87,7 @@ HKD 800 现金券
 
 ### 香港证监会持牌：中央编号 AAB856
 
-![](images/03.png)
+![](01-项目库/06-%20go-global/02-%20港美股券商账户/03-%20香港腾达证券%20Gigamoney/images/03.png)
 
 **持有香港 SFC 牌照意味着什么？**
 
@@ -147,7 +147,7 @@ GigaMoney 的收费模式并不是“完全零费用”。符合当前活动条�
 3. 如在 App 内开户，务必在「邀请码」栏输入：**XDXDQQYZ** 才能获取到新用户奖励。
 4. 设置登录密码，完成基础注册。
 
-![](images/04.png)
+![](01-项目库/06-%20go-global/02-%20港美股券商账户/03-%20香港腾达证券%20Gigamoney/images/04.png)
 
 重要提示
 
@@ -187,9 +187,9 @@ GigaMoney 的收费模式并不是“完全零费用”。符合当前活动条�
 5. **转账完成后立即截图保存**；
 6. 返回腾达证券 App，提交入金通知与转账凭证。
 
-![](images/05.png)
-![](images/06.png)
-![](images/07.png)
+![](01-项目库/06-%20go-global/02-%20港美股券商账户/03-%20香港腾达证券%20Gigamoney/images/05.png)
+![](01-项目库/06-%20go-global/02-%20港美股券商账户/03-%20香港腾达证券%20Gigamoney/images/06.png)
+![](01-项目库/06-%20go-global/02-%20港美股券商账户/03-%20香港腾达证券%20Gigamoney/images/07.png)
 > **重要提示：**必须使用本人同名香港银行账户转出；不要复制网络文章里的历史收款账户，收款信息每次可能不同，以 App 内当次显示为准。
 
 #### 美元入金：需网银电汇

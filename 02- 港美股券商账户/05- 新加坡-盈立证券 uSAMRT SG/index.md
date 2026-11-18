@@ -53,7 +53,7 @@ App 开户邀请码：**73qr**（注册全程需保持境外网络）
 
 该档位按开户身份区分：内地居民合计约 US$36。以活动规则为准。
 
-![](images/01.png)
+![](01-项目库/06-%20go-global/02-%20港美股券商账户/05-%20新加坡-盈立证券%20uSAMRT%20SG/images/01.png)
 
 ### 两种开户入口
 
@@ -126,7 +126,7 @@ uSMART 盈立证券为香港知名品牌周大福旗下的券商公司，相比�
 
 务必通过[本文邀请链接](https://m.usmartsg66.com/promo/overseas/bonus-dec.html?ICode=73qr&langType=1&Id=)注册才能获取全部优惠奖励，如之前已注册，需要先注销账户再重新点击链接开户。
 
-![](images/02.png)
+![](01-项目库/06-%20go-global/02-%20港美股券商账户/05-%20新加坡-盈立证券%20uSAMRT%20SG/images/02.png)
 
 ### 2. App下载
 
@@ -135,17 +135,17 @@ uSMART 盈立证券为香港知名品牌周大福旗下的券商公司，相比�
 - 安卓用户下载链接：[安卓APK包](https://jy-common-sg-prd-singapore-1257884527.cos.ap-singapore.myqcloud.com/admin/app-version-file/2025-08-12/4c01dc45-c71d-4a2f-ba95-73cd401e0f59/sg-client-6.0.0-202508111811-release.apk), 其他版本参考官网下载链接：<https://www.usmart.sg/cn/download>
 - 苹果用户需将Appstore切换到美区或者港区才能下载 usmart sg，具体参考：[https://xiaowan.hk/appleid](01-项目库/06-%20go-global/repo/content/tools/appleid/index.md)
 
-![](images/03.png)
+![](01-项目库/06-%20go-global/02-%20港美股券商账户/05-%20新加坡-盈立证券%20uSAMRT%20SG/images/03.png)
 
 ### 3. APP内提交开户资料
 
 然后在App里面的开户菜单提交开户流程。
 
-![](images/04.png)
+![](01-项目库/06-%20go-global/02-%20港美股券商账户/05-%20新加坡-盈立证券%20uSAMRT%20SG/images/04.png)
 
 其他资料照提示填写即可。
 
-![](images/05.png)
+![](01-项目库/06-%20go-global/02-%20港美股券商账户/05-%20新加坡-盈立证券%20uSAMRT%20SG/images/05.png)
 
 **美股交易：**
 
@@ -159,15 +159,15 @@ uSMART 盈立证券为香港知名品牌周大福旗下的券商公司，相比�
 
 **W-8BEN表单填写：**
 
-![](images/06.jpg)
+![](01-项目库/06-%20go-global/02-%20港美股券商账户/05-%20新加坡-盈立证券%20uSAMRT%20SG/images/06.jpg)
 
 全部流程走完后，即提交后台审批。
 
-![](images/07.png)
+![](01-项目库/06-%20go-global/02-%20港美股券商账户/05-%20新加坡-盈立证券%20uSAMRT%20SG/images/07.png)
 
 提交完成后，注意查收邮箱，有可能会需要补充额外信息，根据实际情况回复即可。
 
-![](images/08.png)
+![](01-项目库/06-%20go-global/02-%20港美股券商账户/05-%20新加坡-盈立证券%20uSAMRT%20SG/images/08.png)
 
 最快当天就可以收到开通通知。
 
@@ -175,7 +175,7 @@ uSMART 盈立证券为香港知名品牌周大福旗下的券商公司，相比�
 
 盈立新加坡支持香港银行卡无损入金港币。**第一次入金建议大于1.5w港币**（需超过2000美金），才能获取全部新用户奖励。
 
-![](images/09.png)
+![](01-项目库/06-%20go-global/02-%20港美股券商账户/05-%20新加坡-盈立证券%20uSAMRT%20SG/images/09.png)
 
 ## uSMART 盈立新加坡开户常见 FAQ
 
